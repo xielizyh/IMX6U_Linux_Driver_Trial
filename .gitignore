@@ -12,3 +12,6 @@
 
 # 忽略所有的.symvers文件
 *.symvers
+
+# 忽略所有的.tmp_versions文件夹
+!.tmp_versions
