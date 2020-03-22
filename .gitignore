@@ -1,0 +1,14 @@
+# 忽略所有的.o文件
+*.o
+
+# 忽略所有的.ko文件
+*.ko
+
+# 忽略所有的.cmd文件
+*.cmd
+
+# 忽略所有的.order文件
+*.order
+
+# 忽略所有的.symvers文件
+*.symvers
